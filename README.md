@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an online market place<br>👯 I’m looking to collaborate on any interesting project<br>🌱 I’m currently learning flutter<br>💬 Ask me about react and python<br>⚡ Love music and gaming
+🔭 I’m currently working on an Inventory Management System<br>👯 I’m looking to collaborate on any interesting project<br>🌱 I’m currently learning flutter<br>💬 Ask me about react and python<br>⚡ Love music and gaming
 
 
 ## 🌐 Socials:
